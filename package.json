@@ -1,0 +1,49 @@
+{
+  "name": "sr-advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "My solutions to the challenges in the Advent Of Code of 2022.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "day_1": "node day_01/main.js",
+    "day_2": "node day_02/main.js",
+    "day_3": "node day_03/main.js",
+    "day_4": "node day_04/main.js",
+    "day_5": "node day_05/main.js",
+    "day_6": "node day_06/main.js",
+    "day_7": "node day_07/main.js",
+    "day_8": "node day_08/main.js",
+    "day_9": "node day_09/main.js",
+    "day_10": "node day_10/main.js",
+    "day_11": "node day_11/main.js",
+    "day_12": "node day_12/main.js",
+    "day_13": "node day_13/main.js",
+    "day_14": "node day_14/main.js",
+    "day_15": "node day_15/main.js",
+    "day_16": "node day_16/main.js",
+    "day_17": "node day_17/main.js",
+    "day_18": "node day_18/main.js",
+    "day_19": "node day_19/main.js",
+    "day_20": "node day_20/main.js",
+    "day_21": "node day_21/main.js",
+    "day_22": "node day_22/main.js",
+    "day_23": "node day_23/main.js",
+    "day_24": "node day_24/main.js",
+    "day_25": "node day_25/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruesa18/SR-Advent-Of-Code-2022s.git"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code"
+  ],
+  "author": "Sandro Rüfenacht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruesa18/SR-Advent-Of-Code-2022/issues"
+  },
+  "homepage": "https://github.com/Ruesa18/SR-Advent-Of-Code-2022#readme"
+}
